@@ -1,0 +1,6 @@
+[submodule "version"]
+	path = version
+	url = https://github.com/opfx-releng/version
+[submodule "list"]
+	path = list
+	url = https://github.com/opfx-releng/list
